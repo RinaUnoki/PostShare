@@ -1,0 +1,7 @@
+.required {
+    color: #E00;
+}
+
+.required:after {
+    content: " *";
+}
